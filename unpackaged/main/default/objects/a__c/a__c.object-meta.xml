@@ -158,7 +158,7 @@
         <label>a Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>a</pluralLabel>
+    <pluralLabel>Account</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
