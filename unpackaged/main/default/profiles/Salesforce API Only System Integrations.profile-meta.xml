@@ -3664,9 +3664,6 @@
         <layout>ApiAnomalyEventStore-API Anomaly Event Store Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>GuestUserAnomalyEventStore-Guest User Anomaly Event Store Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>ShiftWorkTopic-Shift Work Topic Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
