@@ -3709,9 +3709,6 @@
         <layout>CalculationMatrixColumn-Decision Matrix Column Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>CalculationMatrixVersion-Decision Matrix Version Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>CalculationProcedureStep-Calculation Procedure Step Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
