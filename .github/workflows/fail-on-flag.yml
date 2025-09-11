@@ -10,10 +10,7 @@ jobs:
     steps:
       - name: Check commit message
         run: |
-          echo "Latest commit message: ${{ github.event.pull_request.title }}"
           if [[ "${{ github.event.pull_request.title }}" == *"fail"* ]]; then
             echo "❌ Commit message contains 'fail', failing the check."
             exit 1
-          else
-            echo "✅ Commit message is fine."
           fi
